@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PokemonBattle.iml" filepath="$PROJECT_DIR$/.idea/PokemonBattle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.pokemonbattle/com.pokemonbattle.iml" filepath="$PROJECT_DIR$/com.pokemonbattle/com.pokemonbattle.iml" />
+    </modules>
+  </component>
+</project>
