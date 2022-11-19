@@ -34,7 +34,7 @@ Class Game:
 
 Class abstract Pokemon:
     - type:
-    - stats: {HP, Attack, Defense, SpecialAttack, SpecialDefense, Speed}
+    - stats: {HP, Attack, Defense, Speed}
     - minStats:
     - maxStats:
     + generate Pokemon
